@@ -8,7 +8,7 @@ body {
 }
 
 header {
-    background: url('assets/logo.PNG') no-repeat center center;
+    background: url('assets/logo.png') no-repeat center center;
     background-size: contain;
     color: white;
     height: 20vh;
